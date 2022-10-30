@@ -14,4 +14,5 @@ This dataset is available for download on Kaggle [here]( https://www.kaggle.com/
  Due to the limitations in my findings, there are not enough evidences for me to strongly state that these medical issues(Hypertension and Diabetes) are actually enough to predict the no-show responses observed from the patients in the dataset.
 
 ## Key Insights for presentation
-I introduced first the relationship between sms received and no-show response for appointment. Next, I showed the relationship between gender; medical issue (diabetes and hypertension), all against the no-show response received from patients at the hospital.
+I introduced first the relationship between sms received and no-show responses for appointment. Next, I showed the relationship between gender; medical issue (diabetes and hypertension), all against the no-show response received from patients at the hospital.
+All plots were polished to improve their design by removal of border lines,increasing the data-ink ratio and changing title legends where necessary.
