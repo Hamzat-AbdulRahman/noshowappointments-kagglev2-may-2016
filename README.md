@@ -1,5 +1,5 @@
 # noshowappointments-kagglev2-may-2016
-## by HAMZAT ABDULRAHMAN
+## by ABDULRAHMAN HAMZAT
 
 ## Dataset
 This dataset shows the appointmentID, patientID, gender, schedule and appointment days,as well as the medical issues of over a hundred and ten thousand patients. The information is collected from medical appointments in Brazil,and is focused on whether or not patients show up for their appointment.
